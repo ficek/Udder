@@ -23,5 +23,9 @@ class ViewController: UIViewController {
     override func viewWillAppear(_ animated: Bool) {
         //will fill in later
     }
+    
+    override func viewDidDisappear(_ animated: Bool) {
+        //
+    }
 }
 
